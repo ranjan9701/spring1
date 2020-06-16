@@ -1,0 +1,9 @@
+05:12:38 PM [main] INFO  com.opd.server.OpdServerApplication - No active profile set, falling back to default profiles: default
+05:12:44 PM [main] INFO  com.opd.server.OpdServerApplication - Started OpdServerApplication in 6.792 seconds (JVM running for 7.992)
+05:12:44 PM [main] INFO  com.opd.server.OpdServerApplication - Process Id: 11340
+07:18:24 PM [main] INFO  com.opd.server.OpdServerApplication - No active profile set, falling back to default profiles: default
+07:18:29 PM [main] INFO  com.opd.server.OpdServerApplication - Started OpdServerApplication in 6.307 seconds (JVM running for 7.351)
+07:18:29 PM [main] INFO  com.opd.server.OpdServerApplication - Process Id: 3296
+07:22:47 PM [main] INFO  com.opd.server.OpdServerApplication - No active profile set, falling back to default profiles: default
+07:22:52 PM [main] INFO  com.opd.server.OpdServerApplication - Started OpdServerApplication in 6.528 seconds (JVM running for 7.596)
+07:22:52 PM [main] INFO  com.opd.server.OpdServerApplication - Process Id: 10684

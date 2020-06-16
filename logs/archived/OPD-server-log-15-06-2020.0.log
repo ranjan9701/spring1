@@ -1,0 +1,3 @@
+09:57:50 AM [main] INFO  com.opd.server.OpdServerApplication - No active profile set, falling back to default profiles: default
+09:57:55 AM [main] INFO  com.opd.server.OpdServerApplication - Started OpdServerApplication in 7.27 seconds (JVM running for 8.424)
+09:57:55 AM [main] INFO  com.opd.server.OpdServerApplication - Process Id: 10348
